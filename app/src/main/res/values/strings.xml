@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="my_name">Name : Aja Ukpa Nnaemeka</string>
+    <string name="slack_id">Slack ID : owner00</string>
+    <string name="my_email">Email Address: ajahnnaemeka@gmail.com</string>
+    <string name="my_hobbies">My Hobbies :</string>
+    <string name="my_dislikes">My Dislikes :</string>
+    <string name="my_likes">My Likes :</string>
+</resources>
